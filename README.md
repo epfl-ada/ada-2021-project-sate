@@ -1,6 +1,7 @@
 # The World seen by the USA
 
 Team name : Sate 
+
 Team members : Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
 
 
