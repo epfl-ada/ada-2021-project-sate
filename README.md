@@ -3,19 +3,20 @@
 Team name : Sate 
 Team members : Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
 
-# Abstract 
+
+## Abstract 
 
 A REMPLIR : 150 mots
 
-# Research questions
+## Research questions
 
 
-# Additional dataset
+## Additional dataset
 
 
-# Methods 
+### Methods 
 
 
-# Timeline and Organization
+## Timeline and Organization
 
 
