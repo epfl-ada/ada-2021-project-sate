@@ -1,4 +1,4 @@
-# The World seen by the USA
+# The eternal debate of the gun culture in the USA
 
 Team name : Sate \
 Team members : Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
