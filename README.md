@@ -26,7 +26,7 @@ To see if our project is feasible, we need enough data. For 2017, 36000 quotatio
 
 
 ### Timeline and Organization
-
+The project has to be finished before the 17th December. The first week will be dedicated to the download of all the data and to the study of difference of opinions among different social groups in the US and the difference before and after the mass shooting of Orlando. Then we will create the website, as we do not have any experience, we will dedicte two weeks. In the last two weeks our main goal will be to create a model supported by,mathematical modelling behaviour method. 
 
 
 
