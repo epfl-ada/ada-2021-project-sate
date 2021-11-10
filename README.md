@@ -18,7 +18,7 @@ In this project, we will use two data sets. The first is from Quotebank, an open
 The second data set is wikidata. For each speaker, we added to the  data frame of the quotations, information about the attributed speaker: nationality, gender, occupation, age, ethnic group, religion and political party. The first part of our project will consist in comparing opinions among american on the gun permit, so in milestone 2 we only kept the american speakers. Concerning the genders, we decided to keep only the two main genders: 'female' and 'male'. As very few quotations are attributed to other genders, it would have been impossible to balance the genders for the observational studies. 
 
 ### Methods 
-To see if our project is feasible, we need enough data. For 2017, 36000 quotations talked about gun and mass shooting. Being on 5 five years, enough data are available. We performed a few statistics on these data of 2017. We found that...
+To see if our project is feasible, we need enough data. For 2017, 36000 quotations talked about gun and mass shooting. The study, being carried on 5 five years, enough data are available. We performed a few statistics on these data of 2017. We found that...
 
 - speak about observational studies
 
