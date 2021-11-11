@@ -18,7 +18,8 @@ In this project, we will use two data sets. The first is from Quotebank, an open
 The second data set is wikidata. For each speaker, we added to the  data frame of the quotations, information about the attributed speaker: nationality, gender, occupation, age, ethnic group, religion and political party. The first part of our project will consist in comparing opinions among american on the gun permit, so in milestone 2 we only kept the american speakers. Concerning the genders, we decided to keep only the two main genders: 'female' and 'male'. As very few quotations are attributed to other genders, it would have been impossible to balance the genders for the observational studies. 
 
 ### Methods 
-To see if our project is feasible, we need enough data. For 2017, 36000 quotations talked about gun and mass shooting. The study, being carried on 5 five years, enough data are available. We performed a few statistics on these data of 2017. We found that...
+To see if our project is feasible, we need enough data. For 2017, approximately 36000 quotations talked about gun and mass shooting. The study, being carried on 5 five years, enough data are available. As the dataset of 2017 already contians a large amount of data, we performed a few statistics on these quotations in order to check the feasibility of our project.
+We realized a first timeline of quotations speaking about guns for this year and were able to determine two periods for which the topic was particurlarly important. It confirmed that we will be able to relate the time-distribution of the quotations to some events like the mass shooting of Las Vegas on the 1st of October 2017.
 
 - speak about observational studies
 
@@ -26,7 +27,7 @@ To see if our project is feasible, we need enough data. For 2017, 36000 quotatio
 
 
 ### Timeline and Organization
-The project has to be finished before the 17th December. The first week will be dedicated to the download of all the data and to the study of difference of opinions among different social groups in the US and the difference before and after the mass shooting of Orlando. Then we will create the website, as we do not have any experience, we will dedicte two weeks. In the last two weeks our main goal will be to create a model supported by,mathematical modelling behaviour method. 
+The project has to be finished before the 17th December. The first week will be dedicated to the download and selection of all the data of interest and to the study of difference of opinions among different social groups in the US and the difference before and after the mass shooting of Orlando. Then we will create the website, as we do not have any experience, we will dedicate it two weeks. In the last two weeks our main goal will be to create a model supported by mathematical modelling behaviour method to see if we can predict the opinion of speakers on the gun permit from their background.
 
 
 
