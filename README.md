@@ -23,7 +23,7 @@ We will use the Wikidata information given ('speaker_attributes.parquet') as an 
 __Data Preprocessing('DataSelection.ipynb'):__
  We will only use quotations of the Quotebank corpus from 2015 to 2020. Certain quotations do not have any speaker, so we got rid of these quotations, for the others we kept the first speaker, as it is the most likely. Moreover we only kept citations which included chosen key words. These kew words have been found using 'Word Bank', which extracts the most used words in articles talking about mass shootings and gun culture in the USA. We then kept the words corresponding the most to our study. 
  
- __Statistics and methods used to answer the questions (Milestone2.ipynb):__
+ __Statistics and methods used to answer the questions ('Milestone2.ipynb'):__
 To see if our project is feasible, we first extracted the desired quotations from the dataset of the year 2017. We found 58780 quotations talking about gun and mass shooting that had an attributed speaker. 58% of theses quotes are attributed to an American speaker. As the study is being carried over five years, way enough data are available. We performed a few statistics on these quotations in order to check the feasibility of our project. 
 We realized a first timeline of quotations speaking about guns for this year and were able to determine two periods for which the topic was particurlarly important (these dates correspond to the ones of tragic events). It confirmed that we will be able to relate the time-distribution of the quotations to some events like the mass shooting of Las Vegas on the 1st of October 2017. 
   
