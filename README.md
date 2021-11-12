@@ -5,7 +5,6 @@ Team members : Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
 
 ### Abstract 
 
-A REMPLIR : 150 mots \
 The aim of this project is to study how the American perceive the right to bear a firearm. The USA is the country with the most guns per person in the world: 32% of Americans own one. The gun culture is very lively in the USA but the numerous mass shootings which happened in the last few years have risen a debate in the American society: should the second amendment, which allows everyone to own a gun, be revisited? From quotations of Quotebank extracted from the English-speaking journals, the importance of this subject in the journals will be studied. Then, if they exist, the difference of opinions on the gun permit between different social groups in the American society : gender, age, political affiliation, will be highlighted. This to find patterns, the final goal being to develop a model which could predict if a person is pro or against the Second Amendment. 
 
 ### Research questions
@@ -21,7 +20,7 @@ We will use the Wikidata information given ('speaker_attributes.parquet') as an 
 
 ### Methods 
 __Data Preprocessing('DataSelection.ipynb'):__
- We will only use quotations of the Quotebank corpus from 2015 to 2020. Certain quotations do not have any speaker, so we got rid of these quotations, for the others we kept the first speaker, as it is the most likely. Moreover we only kept citations which included chosen key words. These kew words have been found using 'Word Bank', which extracts the most used words in articles talking about mass shootings and gun culture in the USA. We then kept the words corresponding the most to our study. 
+ We will only use quotations of the Quotebank corpus from 2015 to 2020. Certain quotations do not have any speaker, so we got rid of these quotations, for the others we kept the first speaker, as it is the most likely. Moreover we only kept citations which included chosen key words. These kew words have been found using 'Word Bank', which extracts the most used words in articles talking about mass shootings and gun culture in the USA. We then kept the words corresponding the most to our study. We also add additional information about the speaker (age, political party, ...). This is done in the file DataSelection.ipynb. We then obtain a new file 'quotes-2017-extended.json.bz2'. This file being way shorter than the full dataset, we can load it directly in a pandas dataframe to start the analyses. This is done in the file 'Milestone2.ipynb'.
  
  __Statistics and methods used to answer the questions ('Milestone2.ipynb'):__
 To see if our project is feasible, we first extracted the desired quotations from the dataset of the year 2017. We found 58780 quotations talking about gun and mass shooting that had an attributed speaker. 58% of theses quotes are attributed to an American speaker. As the study is being carried over five years, way enough data are available. We performed a few statistics on these quotations in order to check the feasibility of our project. 
