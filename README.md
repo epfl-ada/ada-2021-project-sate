@@ -38,7 +38,7 @@ To do so, we use the VADER-Sentiment-Analysis library which contains a pretraine
 Each member of the team performed the data selection on one of the original files. Then, the different tasks and research questions were distributed like this:  
 Estelle : Dataset first statistics, Timeline and events linking  
 Arthur : Observational study and Sentiment analysis, study of changes in opinion  
-Sevane : Study of the new dataset quotations, creation of the model to relate poeples' characteristics to their opinion about gun owning  
+Sevane : Study of the new dataset quotations, creation of the model to relate peoples' characteristics to their opinion about gun owning  
 Théo : Data selection's algorithm and selection of the lexical field, creation and design of the website   
 Each member contributed equally to the writing of the datastory.
 
