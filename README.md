@@ -20,9 +20,11 @@ We will use the Wikidata information given ('speaker_attributes.parquet') as an 
 
 ### Methods 
 __Data Preprocessing ('DataSelection.ipynb' and 'NewDatasetAndStats.ipynb'):__  
+  
  We will only use quotations of the Quotebank corpus from 2015 to 2020. Certain quotations do not have any speaker, so we got rid of these quotations. For the others we kept the first speaker, as it is the most likely. Moreover we only kept citations which included chosen key words. These kew words have been found using 'Word Bank', which extracts the most used words in articles talking about mass shootings and gun culture in the USA. We then kept the words corresponding the most to our study. We also add additional information about the speaker (age, political party, ...). This is done in the file DataSelection.ipynb that has to be run once for every years' file. We then obtain the new files 'quotes-201_-extended.json.bz2' that are "reunited" in a new dataframe, save in a new data file 'gundata.json.bz2' in the the file 'NewDatasetAndStats.ipynb'. Some basic statistics on te new dataset are also computed in this file : the new dataset contains 69963 different quotations, 62% of which are from American speakers.
  
  __Data Story and Research questions ('Milestone3.ipynb'):__  
+   
 The project is organized in 3 steps.   
 First, a timeline of the gun related quotations is realized. The goal is to check if we can link the high frequencies of quotes with some events, our guess being that most will correspond to important mass shootings that we selected according to their number of deaths. A zoom on two particularly high frequency peaks for October 2017 and February 2018, corresponding to two mass shooting is realized.   
   
