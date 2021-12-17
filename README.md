@@ -1,7 +1,10 @@
 # The eternal debate of the gun culture in the USA
 
-Team name : Sate \
-Team members : Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
+Team name: Sate \
+Team members: Servane Lunven, Estelle Chabanel, Arthur Dietrich, Théo Patron
+
+Datastory: https://patrontheo.github.io/ADA-Datastory/
+
 
 ### Abstract 
 
